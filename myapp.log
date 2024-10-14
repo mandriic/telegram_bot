@@ -6,3 +6,49 @@ INFO:__main__:Finished
 INFO:__main__:Started
 INFO:mylib:Doing something
 INFO:__main__:Finished
+INFO:__main__:Started
+INFO:__main__:Started
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:__main__:Started
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:__main__:Started
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:__main__:Started
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:__main__:Started
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:__main__:Started
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:__main__:Started
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:__main__:Started
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:__main__:Started
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='E:\\AI\\telegram_bot\\bot_env\\lib\\site-packages\\certifi\\cacert.pem'
